@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**rsushizawa/rsushizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Seiji! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Computer Engineering Student at PUC-Campinas.  Looking to explore 
+
+
+## 🛠 Skills
+C, C#, HTML, CSS, PY 
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on expanding my knowledge and experience in multiple areas like ROS2, ASC, C#, JS, HTML, CSS and TS.
+
+🧠 I'm currently learning ROS2, ASC, JS, HTML, CSS.
+
+👯‍♀️ I'm looking to collaborate on web development projects.
+
