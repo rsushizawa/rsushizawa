@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Computer Engineering Student at PUC-Campinas.  Looking to explore 
+I'm a Computer Engineering Student. 
 
 
 ## 🛠 Skills
